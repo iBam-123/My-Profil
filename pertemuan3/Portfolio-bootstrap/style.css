@@ -1,0 +1,29 @@
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #019267;
+}
+#about {
+  padding-top: 6rem;
+  background-color: #00c897;
+}
+
+#studies {
+  padding-top: 6rem;
+  background-color: #8bdb81;
+}
+
+#card {
+  padding-top: 6rem;
+  background-color: #ffd365;
+}
+
+#contact {
+  padding-top: 6rem;
+  background-color: #fdffa9;
+}
+
+#kaki {
+  background-color: #ffb2a6;
+  margin-bottom: 0;
+}
+
